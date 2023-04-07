@@ -13,13 +13,13 @@ dependencies:
   enough_mail:
     git:
       url: https://github.com/rascal-3/enough_mail.git
-      ref: main
+      ref: HEAD
   # enough_mail_html: ^2.0.0
   enough_mail_html:
     # path: ../enough_mail_html
     git:
       url: https://github.com/rascal-3/enough_mail_html.git
-      ef: main
+      ef: HEAD
   enough_media: ^2.2.0
   flutter:
     sdk: flutter
